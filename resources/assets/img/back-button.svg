@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>back button@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Campaign-1---Ads-edit-button" transform="translate(-42.000000, -110.000000)">
+            <g id="back-button" transform="translate(42.000000, 110.000000)">
+                <g id="Group-3" fill="#FFFFFF" stroke="#BEC0C2">
+                    <rect id="Form/emptyField" x="0.5" y="0.5" width="35" height="35" rx="3"></rect>
+                </g>
+                <image id="left-arrow@3x" x="12" y="9" width="10" height="18" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAA2CAYAAADQzyn5AAAABGdBTUEAALGOfPtRkwAAA6FJREFUWAm1mEtsTVEUhm9VDERISugAI1PTdsYN9WgbglBGWiMJIiG5nolJq4kiQUiIxwTxqnhFB0U7QELCQMSASERSJp1oxCMSj/9r9pZ12/s4j33+5LfWOk3+3z1n77X2OTWFQiGXMfZLf494ysVcT09PbkLGpnul3yVOEbdZryyNMeo2ZldNntkvbpfJCWN0X/kWU2divFYG58UaZzSg2Cb+cvVoCH2rm6V6Wax1Js8VV4nfXf0/hDTOS7VXnOTUXysuF7+6uiiEMm6U6m1xslN/p7hY/OLqcSGE8Xyp9onTnPpHRUyHXV0ypDWeJ9WHYp1T/6zYJA65umxIYzxXqoPiTKfOL+SZvnd1xZDUuF6qj8TZTn1EsUVkQUVCEuMZUu4Xuc2ArbJCfEERFXGNWUB0IRYUoCmsFh9TxEEcY7bKXbHBGfxW3CDy62MjqjFN4aa4wDn8VewQb7k6dohiXCvVKyIrFmBKw79EkRTVjGn0F8Q1xmC38tOmTpRWMz4p1Y1GuVP5YVMnTisZH5Iqt9TjuJIDvkgbyxlzTtplxJmvO0ydOi1lvF2qXUb5mvLNIosqGMYab5LyMaN+TznPmD0bFNa4TcpnRXtkWa+a7hQc3rhVyhdF9izgyLJS/EGRBTBeJF4X/ZHllfJl4jcxM2BMB6IPg7fiEnGEIktg/McYcKv9MzaXw6cYM2GYqYAZa48yoxez+AfjJyJnX796/eFtahaGXhNj8EBk6/j92qj8juifvdKw8Maoci5uF/0zzyu/IfrVrjQcrDGqvH5sFX17bHHX/P5WGQZjjVFl1toBwUvYOTHoai9lLI/cEbGTxKFD0b52+uuJYzljBJm9dmDwon2QP4RAJWP0d4rMYo99Svi8kBrVjFlkzGL7GaFbNb8+FaoZI87eZpsxmz143lxLjCjGiNPVmNcDFAIrnEfAik+EqMaI/xSZ0c8oBPY2+76ZIi7iGKPNjOZgz8wGdLVeMS/GQlxjxJnVzGxmN6Cf027p75GRxBjxYbFJ/EAh8BbZJ/q3SK5VRFJjRIfEpeInCqFOZMox06sijTHifHbgfMYdALPEQXEORSWkNUb7jcjK9uc0Pk+w7erFsghhjPhLsVW0R6h+1dPFkghljPhTsdQRyn//KvoPhDRGmMVFh6PNggax5BEqtDFmGNHHvflC5XzGKDpCZWEsj3FHKLrdGf7gkZUx+hgVvJHiOpPnJtoig/yoNLnFHB6Kjk7/ANzJknjYFvU+AAAAAElFTkSuQmCC"></image>
+            </g>
+        </g>
+    </g>
+</svg>

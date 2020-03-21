@@ -1,0 +1,118 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+
+// Variables
+@import "variables";
+
+#app {
+  min-width: 1200px;
+
+}
+
+.pp-page-wrap {
+  overflow: hidden;
+}
+
+body {
+  background: #FAFBFC;
+  font-size: 14px;
+  color: #323C47;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+  color: #2B3340;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 18px;
+  color: #2B3340;
+  font-weight: 500;
+}
+
+.divider {
+  height: 40px;
+}
+
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+input[type='text'], input[type='email'], input[type='password'], select, textarea {
+  border: 1px solid #D9DEE8;
+  border-radius: 4px;
+  &:focus {
+    outline: none;
+    border: 1px solid #1888c9;
+
+  }
+}
+
+.content-box-wrap {
+  border-color: #F0F3F4;
+  border-radius: 4px;
+}
+
+.opacity-hover:hover {
+  opacity: .5;
+}
+
+.cp-btn-green {
+  background-color: $btn-green;
+}
+
+.cp-btn-rounded {
+  border-radius: 10px;
+  min-height: 40px;
+}
+
+.vertical-center {
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-13 {
+  font-size: 13px;
+}
+
+.text-12 {
+  font-size: 12px;
+}
+
+.radius-10 {
+  border-radius: 10px;
+}
+
+.minus-mx65 {
+  margin-left: -65px;
+  margin-right: -65px;
+}
+
+.center-hv {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.drop-that-shadow {
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.4);
+}
+
+.hover\:green:hover {
+  background-color: #B5E86E;
+}
+
+

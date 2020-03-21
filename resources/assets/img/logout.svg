@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>logout@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation" transform="translate(-1528.000000, -22.000000)" fill="#87B8F0" fill-rule="nonzero">
+            <g id="Group-4">
+                <g id="Components-/-Icons-/-Shut-Down" transform="translate(1528.000000, 22.000000)">
+                    <path d="M13.8888889,0 L11.1111111,0 L11.1111111,13.8888889 L13.8888889,13.8888889 L13.8888889,0 Z M20.5972222,3.01388889 L18.625,4.98611111 C20.8194444,6.75 22.2222222,9.45833333 22.2222222,12.5 C22.2222222,17.875 17.875,22.2222222 12.5,22.2222222 C7.125,22.2222222 2.77777778,17.875 2.77777778,12.5 C2.77777778,9.45833333 4.18055556,6.75 6.36111111,4.97222222 L4.40277778,3.01388889 C1.70833333,5.30555556 0,8.69444444 0,12.5 C0,19.4027778 5.59722222,25 12.5,25 C19.4027778,25 25,19.4027778 25,12.5 C25,8.69444444 23.2916667,5.30555556 20.5972222,3.01388889 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
